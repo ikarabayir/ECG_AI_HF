@@ -18,20 +18,16 @@ ECG-AI: Electrocardiographic Artificial Intelligence Model for Prediction of Hea
 # Getting Started
 1. The python versions and libraries you have should meet above.
 2. Get the code $ git clone the repo and install the dependencies
-3. For 10 year predicted risk scores and labels, execute below in the local repo directory,
+3. For building the ECG-AI models from scratch for 10 year prediction of HF, run the .py file in the directory. In the .py file, it is also provided how to get the final prediction for an ECG.
 
-python Github-ECG-AI_Heart_Failure_Prediction.py sample_ECG.npy sample_features.csv
-
-The py file would provide risk scores and labels to your local directory as csv files.
 
 # Citation
 
 If you find this code useful, please cite the following paper:
 
-ECG-AI: Electrocardiographic Artificial Intelligence Model for Prediction of Heart Failure;
-Oguz Akbilgic,*, PhD, Liam Butler, PhD, Ibrahim Karabayir, PhD, Patricia Chang, MD, Dalane Kitzman, MD, Alvaro Alonso, MD, Lin Y Chen, MD, Elsayed Z Soliman, MD
+TBD
 
-*Corresponding Author
+*Corresponding Author (Oguz Akbilgic, PHD)
 
 # Contact
 
